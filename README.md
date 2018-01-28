@@ -3,6 +3,7 @@
 Reproducing images with geometric primitives.
 
 ![Example](https://www.michaelfogleman.com/static/primitive/examples/16550611738.200.128.4.5.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fprimitive.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fprimitive?ref=badge_shield)
 
 ### How it Works
 
@@ -157,3 +158,7 @@ Here are more examples from interesting photos found on Flickr.
 ![Example](https://www.michaelfogleman.com/static/primitive/examples/15196426112.200.128.4.5.png)
 ![Example](https://www.michaelfogleman.com/static/primitive/examples/24696847962.png)
 ![Example](https://www.michaelfogleman.com/static/primitive/examples/18276676312.100.128.4.1.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fprimitive.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fprimitive?ref=badge_large)
